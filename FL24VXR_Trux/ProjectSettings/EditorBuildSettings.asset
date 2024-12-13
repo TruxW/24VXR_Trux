@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/VXR1170/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/VXR1170/Scenes/Vergessen/StartScreen.unity
+    guid: 98981ecd3321c0d4d91c45b32f0b2840
+  - enabled: 1
+    path: Assets/VXR1170/Scenes/Vergessen/Vergessen.unity
+    guid: f5469adcc124d4c49a1f01e2235b8992
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f722935a710c4bd4d987940a094b04db,
       type: 2}
